@@ -1,4 +1,6 @@
-﻿namespace CarRentalManager
+using System;
+
+namespace CarRentalManager
 {
     internal class Program
     {
